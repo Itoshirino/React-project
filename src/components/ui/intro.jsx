@@ -21,16 +21,16 @@ const Intro = () => {
             </p>
             <div className="store-buttons">
               <div className="store-button">
-                <img src={appStore} alt="" />
+                <img src={appStore} alt="appStore" />
               </div>
               <div className="store-button">
-                <img src={googlePlay} alt="" />
+                <img src={googlePlay} alt="googlePlay" />
               </div>
             </div>
           </div>
           <div className="content-right">
             <div className="phone-mockup">
-              <img src={image} alt="" />
+              <img src={image} alt="Icon" />
             </div>
           </div>
         </div>

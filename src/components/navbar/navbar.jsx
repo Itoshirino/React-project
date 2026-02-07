@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="wrapper">
         <header className="header">
           <div>
-            <img className="logo" src={image} alt="" />
+            <img className="logo" src={image} alt="logo" />
           </div>
           <div className="nav">
             <a href="#benefits" className="nav-item">

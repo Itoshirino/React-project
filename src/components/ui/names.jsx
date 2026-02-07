@@ -17,13 +17,13 @@ const Names = () => {
         </div>
 
         <div className="testimonials-logos">
-          <img src={logos} className="logo-img" />
+          <img src={logos} className="logo-img" alt="logos" />
         </div>
 
         <div className="testimonials-grid">
           <div className="testimonial-card">
             <div className="stars">
-              <img src={stars} />
+              <img src={stars} alt="stars" />
             </div>
             <div className="testimonial-text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -33,7 +33,7 @@ const Names = () => {
               lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
             </div>
             <div className="testimonial-user">
-              <img src={avatar} className="user-img" />
+              <img src={avatar} alt="avatar" className="user-img" />
               <div className="user-info">
                 <div className="user-name">Jason Renolds</div>
                 <div className="user-role">Verified Customer</div>
@@ -43,7 +43,7 @@ const Names = () => {
 
           <div className="testimonial-card">
             <div className="stars">
-              <img src={stars} />
+              <img src={stars} alt="stars" />
             </div>
             <div className="testimonial-text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -53,7 +53,7 @@ const Names = () => {
               lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
             </div>
             <div className="testimonial-user">
-              <img src={avatar2} className="user-img" />
+              <img src={avatar2} alt="avatar" className="user-img" />
               <div className="user-info">
                 <div className="user-name">Sarah Gening</div>
                 <div className="user-role">Verified Customer</div>
@@ -63,7 +63,7 @@ const Names = () => {
 
           <div className="testimonial-card">
             <div className="stars">
-              <img src={stars} />
+              <img src={stars} alt="stars" />
             </div>
             <div className="testimonial-text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -73,7 +73,7 @@ const Names = () => {
               lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
             </div>
             <div className="testimonial-user">
-              <img src={avatar3} className="user-img" />
+              <img src={avatar3} alt="avatar" className="user-img" />
               <div className="user-info">
                 <div className="user-name">Lori Basic</div>
                 <div className="user-role">Verified Customer</div>
@@ -83,7 +83,7 @@ const Names = () => {
 
           <div className="testimonial-card">
             <div className="stars">
-              <img src={stars} />
+              <img src={stars} alt="stars" />
             </div>
             <div className="testimonial-text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -93,7 +93,7 @@ const Names = () => {
               lorem imperdiet. Nunc ut sem vitae risus tristique posuere.
             </div>
             <div className="testimonial-user">
-              <img src={avatar4} className="user-img" />
+              <img src={avatar4} alt="avatar" className="user-img" />
               <div className="user-info">
                 <div className="user-name">Anne R.</div>
                 <div className="user-role">Verified Customer</div>

@@ -22,7 +22,7 @@ const Footer = () => {
       <section className="footer-section">
         <div className="footer-container">
           <div>
-            <img className="logo" src={logo} />
+            <img className="logo" src={logo} alt="logo" />
           </div>
           <div className="footer-subtitle">Subscribe to our newsletter</div>
           <div className="social-icons">

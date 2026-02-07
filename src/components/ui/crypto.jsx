@@ -19,7 +19,7 @@ const Crypto = () => {
         <div className="benefits-list">
           <div className="benefit-card">
             <div className="benefit-icon">
-              <img src={frame} alt="" />
+              <img src={frame} alt="frame" />
             </div>
             <div className="benefit-title">Benefit description</div>
             <div className="benefit-text">
@@ -28,14 +28,14 @@ const Crypto = () => {
             <div className="benefit-link">
               Learn more
               <a href="#" className="icon-link">
-                <img src={arrow} className="arrow-icon" alt="" />
+                <img src={arrow} className="arrow-icon" alt="arrow" />
               </a>
             </div>
           </div>
 
           <div className="benefit-card">
             <div className="benefit-icon">
-              <img src={frame} alt="" />
+              <img src={frame} alt="frame" />
             </div>
             <div className="benefit-title">Benefit description</div>
             <div className="benefit-text">
@@ -44,14 +44,14 @@ const Crypto = () => {
             <div className="benefit-link">
               Learn more
               <a href="#" className="icon-link">
-                <img src={arrow} className="arrow-icon" alt="" />
+                <img src={arrow} className="arrow-icon" alt="arrow" />
               </a>
             </div>
           </div>
 
           <div className="benefit-card">
             <div className="benefit-icon">
-              <img src={frame} alt="" />
+              <img src={frame} alt="frame" />
             </div>
             <div className="benefit-title">Benefit description</div>
             <div className="benefit-text">
@@ -60,7 +60,7 @@ const Crypto = () => {
             <div className="benefit-link">
               Learn more
               <a href="#" className="icon-link">
-                <img src={arrow} className="arrow-icon" alt="" />
+                <img src={arrow} className="arrow-icon" alt="arrow" />
               </a>
             </div>
           </div>

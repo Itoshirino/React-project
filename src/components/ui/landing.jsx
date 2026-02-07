@@ -19,7 +19,7 @@ const Landing = () => {
         <div className="features-content">
           <div className="features-column">
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title">Feature description</div>
                 <div className="feature-desc">
@@ -30,7 +30,7 @@ const Landing = () => {
             </div>
 
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title">Feature description</div>
                 <div className="feature-desc">
@@ -40,7 +40,7 @@ const Landing = () => {
               </div>
             </div>
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title">Feature description</div>
                 <div className="feature-desc">
@@ -52,12 +52,12 @@ const Landing = () => {
           </div>
 
           <div className="features-phone">
-            <img src={mainPhone} className="phone-img" />
+            <img src={mainPhone} className="phone-img" alt="phone" />
           </div>
 
           <div className="features-column">
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title2">Feature description</div>
                 <div className="feature-desc2">
@@ -67,7 +67,7 @@ const Landing = () => {
               </div>
             </div>
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title2">Feature description</div>
                 <div className="feature-desc2">
@@ -77,7 +77,7 @@ const Landing = () => {
               </div>
             </div>
             <div className="feature-item">
-              <img src={img} className="feature-icon" />
+              <img src={img} className="feature-icon" alt="Img" />
               <div className="feature-text">
                 <div className="feature-title2">Feature description</div>
                 <div className="feature-desc2">

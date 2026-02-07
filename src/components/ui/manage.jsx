@@ -15,7 +15,7 @@ const Manage = () => {
 
           <div className="mobile-benefits">
             <div className="mobile-benefit">
-              <img src={frame} className="benefit-icon" />
+              <img src={frame} className="benefit-icon" alt="frame" />
               <div className="benefit-text">
                 <div className="benefit-title2">Benefit description</div>
                 <div className="benefit-desc">
@@ -25,7 +25,7 @@ const Manage = () => {
               </div>
             </div>
             <div className="mobile-benefit">
-              <img src={frame} className="benefit-icon" />
+              <img src={frame} className="benefit-icon" alt="frame" />
               <div className="benefit-text">
                 <div className="benefit-title2">Benefit description</div>
                 <div className="benefit-desc">
@@ -45,6 +45,7 @@ const Manage = () => {
           <img
             src={phones}
             className="mobile-phone"
+            alt="phones"
           />
         </div>
       </section>

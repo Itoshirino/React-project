@@ -19,7 +19,7 @@ const Choose = () => {
           </div>
           <div className="pricing-toggle">
             <div className="toggle-monthly">Billed monthly</div>
-            <img src={offOn }  className="img" />
+            <img src={offOn} alt="offOn"  className="img" />
             <div className="toggle-yearly">
               Billed annually
               <p className="toggle-save">save 25%</p>
